@@ -21,7 +21,7 @@ Dual licensed under the MIT or GPL Version 2 licenses :
 
 New Feature
 -----------
-Added an option to show a common bootstrap progressBar under the steps headers section:
+Added an option to show a common bootstrap progressBar under the steps headers section
 $('#myWizard').easyWizard({showBar : true}); // To show it (default)
----
+
 $('#myWizard').easyWizard({showBar : false}); // To hide it

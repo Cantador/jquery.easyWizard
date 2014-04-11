@@ -18,3 +18,10 @@ License
 Dual licensed under the MIT or GPL Version 2 licenses :
 [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
 [http://www.opensource.org/licenses/GPL-2.0](http://www.opensource.org/licenses/GPL-2.0)
+
+New Feature
+-----------
+Added an option to show a common bootstrap progressBar under the steps headers section:
+$('#myWizard').easyWizard({showBar : true}); // To show it (default)
+---
+$('#myWizard').easyWizard({showBar : false}); // To hide it
